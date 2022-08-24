@@ -1,3 +1,8 @@
 /.scala-build
 /.metals
 /main.js
+.idea
+fable_modules/
+bin/
+obj/
+*.fs.js
