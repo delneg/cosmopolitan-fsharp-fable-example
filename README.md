@@ -5,6 +5,10 @@ using [cosmopolitan](https://github.com/jart/cosmopolitan) and the [QuickJS Java
 [αcτµαlly pδrταblε εxεcµταblε](https://justine.lol/ape.html) is a binary can run natively
 in many operative systems.
 
+# Original Scala.js project
+
+This project is based on the original [Scala.js project](https://github.com/lolgab/cosmopolitan-scalajs-example)
+
 # For the impatient
 
 Just run these commands to enjoy a portable F# Fable JS binary:
